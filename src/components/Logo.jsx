@@ -15,7 +15,7 @@ export default function Logo() {
         className="
           h-[150px] md:h-[120px]        /* Mobile bigger, desktop normal */
           w-auto
-          relative -top-7 md:top-0      /* Up on mobile, normal on desktop */
+          relative -top-10 md:top-0      /* Up on mobile, normal on desktop */
           transition-all duration-300
         "
       />
